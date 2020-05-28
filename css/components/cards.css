@@ -1,0 +1,30 @@
+.cards {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  padding: 35px 0 60px;
+}
+
+.card {
+  text-align: center;
+}
+
+.card h2 {
+  font-size: 17px;
+  color: #1edd88;
+}
+
+.card p {
+  font-size: 16px;
+  font-style: normal;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card-h2 {
+  color: #1edd88;
+  text-align: center;
+  margin-top: 60px;
+}

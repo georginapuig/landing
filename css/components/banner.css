@@ -1,0 +1,41 @@
+.banner {
+  padding: 200px 0;
+  background: 
+  linear-gradient( 
+    rgba(0, 0, 0, 0.7),  
+    rgba(0, 0, 0, 0.7)
+  ), 
+  url("https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+  /* url("/landing/images/background.png"); */
+  background-position: center;
+  background-size: cover;
+  color: white;
+  
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container p {
+  font-family: Montserrat;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: lighter;
+  opacity: .8;
+}
+
+.container h1 {
+  font-size: 32px;
+}
+
+.container button {
+  padding: 17px 25px;
+  border-radius: 26px;
+  border: none;
+  background-color: #1edd88;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+}
